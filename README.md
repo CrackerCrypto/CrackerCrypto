@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shybal Ghosh</h1>
-<h3 align="center">A passionate DevOps Engineer from India, certified AWS Solutions Architect - Associate</h3>
+<h3 align="center">A passionate DevOps Engineer from India, certified in AWS Solutions Architect - Associate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crackercrypto&label=Profile%20views&color=0e75b6&style=flat" alt="crackercrypto" /> </p>
 
